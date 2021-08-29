@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Naveen's First Suite Independently">
+<test name ="Naveen's First Test Independently">
+<classes>
+
+<class name="APIII_Testng_Project_Resting_Assurance.APIII_Testng_Project_Resting_Assurance.C_001_GET_REQUEST"/>
+
+</classes>
+
+
+</test>
+
+
+</suite>
